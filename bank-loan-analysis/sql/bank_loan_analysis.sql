@@ -1,0 +1,2 @@
+-- Bank Loan Analysis
+-- SQL analysis queries
