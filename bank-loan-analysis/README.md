@@ -75,7 +75,11 @@ A Tableau dashboard was created for interactive visualization and trend analysis
 
 ## Dashboard Screenshots
 
-Dashboard screenshots are available in the `screenshots` folder.
+<img width="1988" height="1121" alt="image" src="https://github.com/user-attachments/assets/73ce0ddf-e63e-47f7-b15d-2173a0080720" />
+
+<img width="1989" height="1121" alt="image" src="https://github.com/user-attachments/assets/8ad9838f-79b2-440c-8ebd-d14730935dfa" />
+
+<img width="1991" height="1124" alt="image" src="https://github.com/user-attachments/assets/6f655e27-3dd1-4ddb-ada8-b272563b850c" />
 
 ## Dataset
 
