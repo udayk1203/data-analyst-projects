@@ -62,7 +62,8 @@ The SQL queries are available in the `sql` folder.
 
 ## Dashboard
 
-Dashboard visualizations can be added to the `screenshots` folder to demonstrate the manufacturing quality analysis and key KPIs.
+<img width="1939" height="1095" alt="Manufacturing Dashboard" src="https://github.com/user-attachments/assets/ce3b7be3-fea0-4247-a896-cada3a7e3dd0" />
+
 
 ## Dataset
 
