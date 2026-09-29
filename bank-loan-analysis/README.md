@@ -74,12 +74,18 @@ An interactive Power BI dashboard was created to present loan performance, risk 
 A Tableau dashboard was created for interactive visualization and trend analysis.
 
 ## Dashboard Screenshots
+### Power BI Dashboard 
 
 <img width="1988" height="1121" alt="image" src="https://github.com/user-attachments/assets/73ce0ddf-e63e-47f7-b15d-2173a0080720" />
 
 <img width="1989" height="1121" alt="image" src="https://github.com/user-attachments/assets/8ad9838f-79b2-440c-8ebd-d14730935dfa" />
 
 <img width="1991" height="1124" alt="image" src="https://github.com/user-attachments/assets/6f655e27-3dd1-4ddb-ada8-b272563b850c" />
+
+### Excel Dashboard
+
+<img width="1725" height="1017" alt="image" src="https://github.com/user-attachments/assets/f8dd1389-1197-47a5-9d61-a68973ee1e07" />
+
 
 ## Dataset
 
