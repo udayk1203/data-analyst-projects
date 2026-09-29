@@ -67,7 +67,7 @@ An interactive Power BI dashboard was developed to present hospitality KPIs and 
 
 ## Dashboard Screenshots
 
-Dashboard screenshots are available in the `screenshots` folder.
+<img width="1928" height="1088" alt="image" src="https://github.com/user-attachments/assets/d6250700-64c9-4d90-ad55-443fc862645e" />
 
 ## Dataset
 
